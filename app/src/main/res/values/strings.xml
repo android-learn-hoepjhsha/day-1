@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">250709_Sample1</string>
+    <string name="button_1">Button 1</string>
+    <string name="sample_image">Sample Image</string>
+    <string name="button_2">Button 2</string>
+    <string name="viet_nam">Việt Nam</string>
+    <string name="lb_nga">LB Nga</string>
+    <string name="vietnamese_greeting">Xin chào</string>
+    <string name="russian_greeting">Здравствуйте</string>
+</resources>
